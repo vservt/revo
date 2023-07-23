@@ -4,7 +4,7 @@
     "title": "Hot New",
     "contents": "<p>Hot!!! Android TV new version has available right now.</p>",
     "btn_title": "See more",
-    "show": true,
+    "show": false,
     "key": "NOTI_1.5"
   },
   "ads_config": {
