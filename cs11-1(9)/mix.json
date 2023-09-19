@@ -1,10 +1,10 @@
 {
   "notification": {
-    "url": "https://hdo.app/howtotv.html",
+    "url": "https://play.google.com/store/apps/details?id=com.boxedmedia.videodownloader.mediadownloader",
     "title": "Hot New",
-    "contents": "<p>Hot!!! Android TV new version has available right now.</p>",
-    "btn_title": "See more",
-    "show": false,
+    "contents": "Download YouTube videos fast with background sound and a popup player for the ultimate viewing.",
+    "btn_title": "INSTALL",
+    "show": true,
     "key": "NOTI_1.5"
   },
   "ads_config": {
