@@ -1,6 +1,6 @@
 {
   "notification": {
-    "url": "https://play.google.com/store/apps/details?id=com.boxedmedia.videodownloader.mediadownloader",
+    "url": "",
     "title": "Hot New",
     "contents": "Download YouTube videos fast with background sound and a popup player for the ultimate viewing.",
     "btn_title": "INSTALL",
@@ -16,7 +16,7 @@
   },
   "update_release": {
     "version": "3.4",
-    "url": "https://github.com/hdoonline/hdonline/releases/download/v2.0.15/hdo.2.0.15v.apk",
+    "url": "k",
     "contents1": "Remove ads in detail when use external player.",
     "contents2": "Improvement and stability.",
     "contents3": "Update more source.",
@@ -24,7 +24,7 @@
     "isUpdate": true
   },
   "app_player_config": {
-    "player_apk_url": "https://github.com/hdoonline/player/releases/download/v1.0.10/mediaon-1.0.10.apk",
+    "player_apk_url": "",
     "player_version_build": 10,
     "player_is_install_force": false,
     "force_player": false
